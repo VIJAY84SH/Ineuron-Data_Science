@@ -1,0 +1,10 @@
+Abstrct class : Abstract class which have atleast one  abstract method.
+Abstract Method : Method with declaration but not the defination.
+Concrete CLass : Class without abstract method
+
+Object can't be initiated for abstrct class.
+Object can only be initiated for concrete class.
+
+module : abc
+ABC - Abstract Base Class
+abstractmethod
